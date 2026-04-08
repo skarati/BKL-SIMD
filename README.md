@@ -1,1 +1,1 @@
-tANUSHRI Rittwik # BKL-SIMD
+# BKL-SIMD
