@@ -4,7 +4,7 @@ This repository contains the implementation of Binary Kummer Lines: BKL251 and B
 <ol>
   <li><i>Sabyasachi Karati</i>,</li>
   <li><a href="https://scholar.google.com/citations?user=9etnbVwAAAAJ&hl=en" target="_blank"><i>Rittwik Hajra</i></a>, and</li>
-  <li><i>Tanushri Sen.</i></li>
+  <li><a href="https://github.com/tan0Shri" target="_blank"><i>Tanushri Sen.</i></a></li>
 </ol>
 
 <h3>Description:</h3>
